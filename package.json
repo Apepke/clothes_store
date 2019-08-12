@@ -1,7 +1,7 @@
 {
   "name": "clothesstore",
   "version": "0.1.0",
-  "homepage": "https://apepke.github.io/clothesstore",
+  "homepage": "https://apepke.github.io/clothes_store",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "gh-pages": "^2.1.1",
@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d public"
   },
   "eslintConfig": {
     "extends": "react-app"
