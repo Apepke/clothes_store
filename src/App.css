@@ -1,8 +1,8 @@
 :root {
   --mainBlue: teal;
   --lightBlue: navy;
-  --mainWhite: #f3f3f3;
-  --mainDark: #232528;
+  --mainWhite: white;
+  --mainDark: black;
   --mainYellow: gold;
 }
 body {
